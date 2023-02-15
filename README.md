@@ -17,5 +17,7 @@ npm run dev
 
 ## 他必要なモジュール
 ```
-npm install cookie date-fns micro micro-components react-loader-spinner react-redux redux redux-devtools-extension redux-thunk stripe
+npm install cookie date-fns micro micro-components react-loader-spinner react-redux redux redux-devtools-extension redux-thunk autoprefixer stripe
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
 ```
