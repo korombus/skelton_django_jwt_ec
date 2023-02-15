@@ -82,7 +82,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'skelton_jwt_ec',
         'USER': 'root',
-        'PASSWORD': '',
+        'PASSWORD': 'test',
         'HOST': 'localhost',
         'PORT': '3306',
     }
